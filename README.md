@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm [Karar Mohammed]!
 
-<!--
-**KararMohammed2009/KararMohammed2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### .NET Backend Developer | Clean Architecture Enthusiast | API Builder
 
-Here are some ideas to get you started:
+I'm a backend developer focused on building secure, scalable, and well-structured web APIs using **C#**, **ASP.NET Core**, **EF Core**, and **SQL Server**. I follow best practices like **Clean Architecture**, **SOLID principles**, and **automated testing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- Build RESTful APIs with ASP.NET Core & JWT Authentication
+- Design and implement clean architecture backend systems
+- Integrate ASP.NET Core Identity with Claims-Based Authorization
+- Write Unit and Integration Tests with xUnit & SQLite
+- Dockerize backend apps for deployment
+- Normalize and design relational databases
+- 
+---
+
+## 🛠️ Technologies & Tools
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/-EFCore-512BD4?style=flat&logo=Microsoft&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🌱 In progress 
+
+- Microservices with .NET
+- Kubernetes 
+- Advanced Docker
+- Performance Optimization in APIs
+
+---
+
+## 📬 Contact Me
+
+- **Email**: karar.m2009@gmail.com
+
+---
+
+> “Code with purpose, build with structure.”
