@@ -13,7 +13,7 @@ I'm a backend developer focused on building secure, scalable, and well-structure
 - Write Unit and Integration Tests
 - Dockerize backend apps for deployment
 - Normalize and design relational databases ( mid to large )
-- 
+
 ---
 
 ## 🛠️ Technologies & Tools
