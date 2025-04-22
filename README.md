@@ -1,4 +1,4 @@
-# Hi, I'm [Karar Mohammed]!
+# Hi, I'm Karar Mohammed
 
 ### .NET Backend Developer | Clean Architecture Enthusiast | API Builder
 
