@@ -6,14 +6,13 @@ I'm a backend developer focused on building secure, scalable, and well-structure
 
 ---
 
-## 🚀 What I Do
-
-- Build RESTful APIs with ASP.NET Core & JWT Authentication
+## 🚀 What I am fluent to
 - Design and implement clean architecture backend systems
+- Build RESTful APIs with ASP.NET Core & JWT Authentication
 - Integrate ASP.NET Core Identity with Claims-Based Authorization
-- Write Unit and Integration Tests with xUnit & SQLite
+- Write Unit and Integration Tests
 - Dockerize backend apps for deployment
-- Normalize and design relational databases
+- Normalize and design relational databases ( mid to large )
 - 
 ---
 
@@ -29,11 +28,11 @@ I'm a backend developer focused on building secure, scalable, and well-structure
 ---
 
 ## 🌱 In progress 
-
-- Microservices with .NET
+- Performance Optimization in APIs
+- SOA
+- Microservices 
 - Kubernetes 
 - Advanced Docker
-- Performance Optimization in APIs
 
 ---
 
@@ -43,4 +42,3 @@ I'm a backend developer focused on building secure, scalable, and well-structure
 
 ---
 
-> “Code with purpose, build with structure.”
