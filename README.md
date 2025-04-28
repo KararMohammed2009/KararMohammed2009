@@ -2,7 +2,7 @@
 
 ### .NET Backend Developer | Clean Architecture Enthusiast | API Builder
 
-I'm a backend developer focused on building secure, scalable, and well-structured web APIs using **C#**, **ASP.NET Core**, **EF Core**, and **SQL Server**. I follow best practices like **Clean Architecture**, **SOLID principles**, and **automated testing**.
+I'm a backend developer focused on building secure, scalable, and well-structured web APIs using **C#**, **ASP.NET Core**, **EF Core**, and **SQL Server** or thier alternatives . I follow best practices like **Clean Architecture**, **SOLID principles**, and **automated testing**.
 
 ---
 
